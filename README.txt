@@ -21,7 +21,7 @@
 
 
 
-This Matlab code is written to obtain six different and valuable features (mean, variance, median frequency, power,
+This Matlab code is written to obtain six different and useful features (mean, variance, median frequency, power,
 skewness frequency, Gama/Alpha ratio) from different biological signals.
 
 
